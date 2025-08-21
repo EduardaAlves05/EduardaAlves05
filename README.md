@@ -1,4 +1,7 @@
-## Hi there 👋 my name chamo Eduarda Alves
+## Hi there 👋 
+Hello, my name is Eduarda Alves.
+
+I am currently studying Systems Analysis and Development at Cruzeiro do Sul University, with a focus on Cybersecurity.
 
 <!--
 **EduardaAlves05/EduardaAlves05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
