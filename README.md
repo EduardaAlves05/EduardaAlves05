@@ -1,7 +1,9 @@
 ## Hi there 👋 
-My name is Eduarda Alves.
+Hello, my name is Eduarda Alves.
 
 I am currently studying Systems Analysis and Development at Cruzeiro do Sul University, with a focus on Cybersecurity.
+
+As part of my studies, I developed a calculator project using Visualg. The project performs basic arithmetic operations such as addition, subtraction, multiplication, and division, helping reinforce logic and programming fundamentals.
 
 <!--
 **EduardaAlves05/EduardaAlves05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
