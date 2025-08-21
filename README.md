@@ -1,5 +1,5 @@
 ## Hi there 👋 
-Hello, my name is Eduarda Alves.
+My name is Eduarda Alves.
 
 I am currently studying Systems Analysis and Development at Cruzeiro do Sul University, with a focus on Cybersecurity.
 
